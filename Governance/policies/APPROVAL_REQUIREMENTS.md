@@ -8,7 +8,7 @@
 | Owner | Maintainer Team |
 | Last reviewed | 2026-09-28 |
 | Review cadence | Every 6 months, or after any change to branch protection |
-| Applies to | Every pull request opened against `rinafcode/teachLink_backend` |
+| Applies to | Every pull request opened against `bodycountt/teachlink_backend` |
 
 This policy is the single, versioned reference for **how many approvals a pull
 request needs**, **which automated checks must be green**, and **who may

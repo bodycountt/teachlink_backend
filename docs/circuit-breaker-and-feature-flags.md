@@ -510,8 +510,8 @@ Monitor these metrics and set alerts:
 
 ## References
 
-- Issue #390: https://github.com/rinafcode/teachLink_backend/issues/390
-- Issue #391: https://github.com/rinafcode/teachLink_backend/issues/391
+- Issue #390
+- Issue #391
 - Opossum Docs: https://nodeshift.github.io/opossum/
 - Martin Fowler - Circuit Breaker: https://martinfowler.com/bliki/CircuitBreaker.html
 - Feature Flags Best Practices: https://launchdarkly.com/blog/feature-flag-best-practices/

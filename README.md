@@ -1,6 +1,6 @@
 # TeachLink Backend
 
-[![CI](https://github.com/rinafcode/teachLink_backend/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/rinafcode/teachLink_backend/actions/workflows/ci.yml)
+[![CI](https://github.com/bodycountt/teachlink_backend/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/bodycountt/teachlink_backend/actions/workflows/ci.yml)
 [![Coverage](https://img.shields.io/badge/coverage-70%25%20threshold-brightgreen)](#-ci--testing)
 [![Branch Protection](https://img.shields.io/badge/branch%20protection-enabled-blue)](#-branch-protection)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
@@ -13,8 +13,8 @@
 
 ```bash
 # 1. Clone and install
-git clone https://github.com/rinafcode/teachLink_backend.git
-cd teachLink_backend
+git clone https://github.com/bodycountt/teachlink_backend.git
+cd teachlink_backend
 pnpm install
 
 # 2. Configure environment
@@ -629,7 +629,7 @@ We welcome contributions from the community! Please follow our guidelines to ens
 
 - 📖 [Documentation](./docs/)
 - 💬 [Telegram Community](https://t.me/teachlinkOD)
-- 🐛 [Report Issues](https://github.com/rinafcode/teachLink_backend/issues)
+- 🐛 [Report Issues](https://github.com/bodycountt/teachlink_backend/issues)
 
 ---
 

@@ -12,7 +12,7 @@ groups:
         annotations:
           summary: '5xx error rate above 5% for 5m'
           description: 'Error rate is {{ $value | humanizePercentage }} on {{ $labels.service }}.'
-          runbook: 'https://github.com/teachlink/backend/blob/main/docs/monitoring-dashboard.md#runbook'
+          runbook: 'https://github.com/bodycountt/teachlink_backend/blob/main/docs/monitoring-dashboard.md#runbook'
 
       - alert: HighLatencyP95
         expr: |
@@ -234,4 +234,4 @@ groups:
         annotations:
           summary: 'Payment failure rate above 5% for 5m'
           description: 'Payment failure rate is {{ $value | humanizePercentage }}. Revenue impact likely.'
-          runbook: 'https://github.com/teachlink/backend/blob/main/docs/monitoring-dashboard.md#payments-runbook'
+          runbook: 'https://github.com/bodycountt/teachlink_backend/blob/main/docs/monitoring-dashboard.md#payments-runbook'

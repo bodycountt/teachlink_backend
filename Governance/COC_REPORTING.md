@@ -69,7 +69,7 @@ record.
 | Channel | Address | Use when |
 | --- | --- | --- |
 | **Email** | `conduct@teachlink.example` (replace with the project's published conduct contact if different) | The default. Best for anything detailed, and the only channel that leaves you a copy. |
-| **Direct message** | `@rinafcode` on GitHub or [Telegram](https://t.me/teachlinkOD) | Quicker, or when email is inconvenient. |
+| **Direct message** | Contact the project lead on GitHub or [Telegram](https://t.me/teachlinkOD) | Quicker, or when email is inconvenient. |
 | **Any maintainer** | See [`roles/MAINTAINER.md`](roles/MAINTAINER.md) | When your report concerns the project lead, or anyone you would otherwise have to report *to*. |
 
 **Never open a public issue or pull request to report a conduct concern.** Doing

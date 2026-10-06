@@ -86,7 +86,7 @@ prometheusRule:
   enabled: true
   additionalLabels:
     role: alert-rules
-  runbookBaseUrl: 'https://github.com/dot-enny/teachLink_backend/blob/main/docs/RUNBOOKS.md'
+  runbookBaseUrl: 'https://github.com/bodycountt/teachlink_backend/blob/main/docs/RUNBOOKS.md'
   severities:
     highErrorRate: critical
     highP99Latency: critical

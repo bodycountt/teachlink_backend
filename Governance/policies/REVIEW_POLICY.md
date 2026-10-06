@@ -12,7 +12,7 @@ reference for review requirements; it does not replace `CONTRIBUTING.md`, which
 remains authoritative for contribution mechanics. Where the two overlap and
 disagree, `CONTRIBUTING.md` wins and this document is amended to match.
 
-It applies to every pull request opened against `rinafcode/teachLink_backend`,
+It applies to every pull request opened against `bodycountt/teachlink_backend`,
 on any target branch, including pull requests that touch only documentation,
 CI configuration, or the `Governance/` folder itself.
 

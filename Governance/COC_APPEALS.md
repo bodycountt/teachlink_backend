@@ -107,7 +107,7 @@ community, and that fact is recorded in the decision.
 
 | Step | Action | Owner | Deadline |
 | --- | --- | --- | --- |
-| 1 | **File the appeal.** Submit it in writing to the project lead by private email (the address in [`CONTRIBUTING.md` §13](../CONTRIBUTING.md)) or by direct message to `@rinafcode`. State: the decision being appealed, the date it was communicated, the grounds (§5.1), and the outcome sought. | Appellant | **14 days** from notification |
+| 1 | **File the appeal.** Submit it in writing to the project lead by private email or by direct message to the project lead on GitHub. State: the decision being appealed, the date it was communicated, the grounds (§5.1), and the outcome sought. | Appellant | **14 days** from notification |
 | 2 | **Acknowledge.** The project lead confirms receipt, states the deadline for the decision, and names the panel (§4) or explains why a panel could not be formed. | Project lead | **5 business days** of receipt |
 | 3 | **Assemble the panel and disclose the record.** The panel receives the original decision, the evidence it rested on, and the appellant's filing. The appellant receives everything the panel receives, minus material that would identify or endanger a reporter. | Project lead | **10 business days** of acknowledgement |
 | 4 | **Panel review.** The panel reads the record and may ask either side written questions. Each side may answer once. No hearings, no cross-examination of the reporter. | Panel | **21 days** of acknowledgement |

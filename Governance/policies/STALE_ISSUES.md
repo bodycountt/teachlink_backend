@@ -17,7 +17,7 @@ It is the detailed counterpart to the summary in [`../processes/TRIAGE.md`](../p
 
 ## Scope
 
-This policy applies to all issues opened against `rinafcode/teachLink_backend`.
+This policy applies to all issues opened against `bodycountt/teachlink_backend`.
 
 It does **not** apply to pull requests, which are covered by [`STALE_PRS.md`](STALE_PRS.md) on a shorter timer.
 

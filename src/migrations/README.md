@@ -46,7 +46,7 @@ opens a **separate pooled connection** that:
    connection is committed independently and is **not rolled back** if a later
    migration fails, leaving the database in a half-migrated state.
 
-This is exactly the failure fixed in [#1195](https://github.com/rinafcode/teachLink_backend/pull/1195):
+This is exactly the failure fixed in issue #1195:
 `fix-invoice-number-sequence` originally opened its own connection to SELECT
 from `invoices` — a table created by an earlier migration in the same run — and
 crashed from scratch on every fresh database.

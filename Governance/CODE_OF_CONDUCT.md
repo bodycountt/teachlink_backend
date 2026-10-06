@@ -61,7 +61,7 @@ space where a person is representing the project.
 
 **Project spaces** — this Code applies fully:
 
-- the `rinafcode/teachLink_backend` repository: issues, pull requests, reviews,
+- the `bodycountt/teachlink_backend` repository: issues, pull requests, reviews,
   commit messages, code comments, and discussions;
 - the [Telegram community](https://t.me/teachlinkOD);
 - any mailing list, call, or chat run by the project;

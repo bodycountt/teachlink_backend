@@ -65,7 +65,7 @@ git push origin v0.1.0
 
 Use GitHub's manual workflow trigger:
 
-1. Go to: [GitHub Actions → Release Automation](https://github.com/teachLink/teachLink_backend/actions/workflows/release.yml)
+1. Go to: [GitHub Actions → Release Automation](https://github.com/bodycountt/teachlink_backend/actions/workflows/release.yml)
 2. Click "Run workflow"
 3. Select release type: `patch`, `minor`, or `major`
 4. Choose whether to do a dry run
@@ -409,7 +409,7 @@ For TeachLink: **Weekly releases** (every Monday morning)
 
 Monitor releases in real-time:
 
-- Dashboard: [Actions → Release Automation](https://github.com/teachLink/teachLink_backend/actions/workflows/release.yml)
+- Dashboard: [Actions → Release Automation](https://github.com/bodycountt/teachlink_backend/actions/workflows/release.yml)
 - Get status: `gh workflow view release.yml`
 
 ### npm Registry
@@ -422,7 +422,7 @@ Verify published package:
 
 View all releases:
 
-- https://github.com/teachLink/teachLink_backend/releases
+- https://github.com/bodycountt/teachlink_backend/releases
 
 ## Support & Questions
 
@@ -431,7 +431,7 @@ For issues or questions about the release process:
 1. Check this documentation
 2. Review workflow logs in GitHub Actions
 3. Ask in `#infrastructure` Slack channel
-4. Check recent issues: [Release Automation Label](https://github.com/teachLink/teachLink_backend/labels/release%20automation)
+4. Check recent issues: [Release Automation Label](https://github.com/bodycountt/teachlink_backend/labels/release%20automation)
 
 ---
 

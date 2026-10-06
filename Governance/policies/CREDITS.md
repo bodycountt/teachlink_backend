@@ -85,7 +85,7 @@ it included:
 ### 2026
 
 - **Display name** (`@public-handle`) — **First credited:** 2026-09-29.
-  - **2026-09-29:** Concise description. **Evidence:** [PR #123](https://github.com/rinafcode/teachLink_backend/pull/123).
+  - **2026-09-29:** Concise description. **Evidence:** [PR #123](https://github.com/bodycountt/teachlink_backend/pull/123).
 ```
 
 Each contributor entry must include the contributor's chosen display name and

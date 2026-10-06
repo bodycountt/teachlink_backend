@@ -133,7 +133,7 @@ function categorizeCommits(commits) {
 }
 
 function formatCommitLine(commit) {
-  return `- ${commit.description}${commit.issueRef} ([${commit.hash}](https://github.com/teachLink/teachLink_backend/commit/${commit.hash}))`;
+  return `- ${commit.description}${commit.issueRef} ([${commit.hash}](https://github.com/bodycountt/teachlink_backend/commit/${commit.hash}))`;
 }
 
 function buildChangelogEntry(version, categories) {

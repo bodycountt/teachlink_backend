@@ -54,7 +54,7 @@ Indicate *how urgently* the issue or PR needs attention.
 
 **Rules:**
 - Apply exactly **one** `priority:` label per issue or PR.
-- Critical issues must be escalated immediately to `@rinafcode/maintainers`.
+- Critical issues must be escalated immediately to project maintainers.
 
 ---
 

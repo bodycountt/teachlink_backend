@@ -15,7 +15,7 @@ This document defines how milestones are created, managed, and closed for the Te
 
 ## Scope
 
-This process applies to all milestones created in `rinafcode/teachLink_backend`.
+This process applies to all milestones created in `bodycountt/teachlink_backend`.
 
 ---
 
@@ -23,7 +23,7 @@ This process applies to all milestones created in `rinafcode/teachLink_backend`.
 
 ### Who Can Create Milestones
 
-Only maintainers (members of `@rinafcode/maintainers`) may create milestones. Contributors may propose a milestone by opening a discussion issue tagged `type: governance`.
+Only maintainers may create milestones. Contributors may propose a milestone by opening a discussion issue tagged `type: governance`.
 
 ### When to Create a Milestone
 

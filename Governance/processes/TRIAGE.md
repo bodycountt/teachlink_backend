@@ -15,7 +15,7 @@ This document defines the process for triaging newly opened issues in the TeachL
 
 ## Scope
 
-This process applies to all issues opened against `rinafcode/teachLink_backend`.
+This process applies to all issues opened against `bodycountt/teachlink_backend`.
 
 ---
 
@@ -111,7 +111,7 @@ An issue is considered stale if it has had no activity for **60 days**. Stale is
 
 ## Escalation
 
-If a high or critical priority issue has not been triaged within **1 business day**, any contributor may escalate by tagging `@rinafcode/maintainers` in the issue comments.
+If a high or critical priority issue has not been triaged within **1 business day**, any contributor may escalate by tagging project maintainers in the issue comments.
 
 ---
 

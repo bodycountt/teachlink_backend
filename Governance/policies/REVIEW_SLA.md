@@ -15,7 +15,7 @@ This policy defines the expected response and review-completion timescales for p
 
 ## Scope
 
-This policy applies to all pull requests opened against `rinafcode/teachLink_backend`, regardless of branch target (`main` or `develop`).
+This policy applies to all pull requests opened against `bodycountt/teachlink_backend`, regardless of branch target (`main` or `develop`).
 
 ---
 
@@ -60,7 +60,7 @@ A "complete review" means:
 
 If SLA targets are not met, the following escalation steps apply:
 
-1. **Day 6 (after PR open):** The PR author may ping the reviewer directly in the PR comments, tagging `@rinafcode/maintainers`.
+1. **Day 6 (after PR open):** The PR author may ping the reviewer directly in the PR comments, tagging project maintainers.
 2. **Day 8:** The author may escalate to the project lead via the [Telegram community](https://t.me/teachlinkOD) or by opening a discussion.
 3. **Day 10:** A co-maintainer may self-assign the review and complete it independently.
 

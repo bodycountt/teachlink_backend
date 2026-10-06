@@ -15,7 +15,7 @@ This document defines how the TeachLink Backend public roadmap is proposed, appr
 
 ## Scope
 
-This process applies to all roadmap planning activities for `rinafcode/teachLink_backend`.
+This process applies to all roadmap planning activities for `bodycountt/teachlink_backend`.
 
 ---
 
